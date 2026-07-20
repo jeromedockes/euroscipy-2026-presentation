@@ -1,0 +1,6 @@
+skrub-dataops.html
+skrub-dataops_files/
+*.ipynb
+__pycache__/
+scripts/intro/optuna.db
+.ipynb_checkpoints/
