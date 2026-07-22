@@ -1,3 +1,10 @@
+See the rendered slides & notebooks that were shown during the presentation:
+
+
+https://jeromedockes.github.io/euroscipy-2026-presentation/
+
+
+
 Needs quarto, skrub main branch (not stable release), jupyter notebook and
 jupytext installed.
 
